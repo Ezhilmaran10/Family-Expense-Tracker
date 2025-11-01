@@ -1,17 +1,21 @@
-Phase-5 – Performance Testing
+Project Demo Video – Family Expense Tracker (ServiceNow)
 
-Test Summary:
+This video demonstrates the complete implementation of the Family Expense Tracker using ServiceNow.
 
-Test	                 	Result
-Add expense entry		Pass
-Auto-update total		Pass
-Reference linking		Pass
-Business Rule execution		Pass
+What’s shown in the video
 
-Performance:
+	Login to ServiceNow PDI
 
-	1. Total update: Instant
+	Creating required tables
 
-	2. No lag
+	Setting up fields & reference
 
-	3. Works for multiple entries
+	Auto–number configuration
+
+	Writing business rule for automation
+
+	Entering expenses
+
+	Verifying total calculation
+
+	Final working output
