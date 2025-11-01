@@ -1,19 +1,10 @@
-Phase-2 – Project Planning 
+Phase-3 – Project Design
 
-Project Tasks:
+Diagrams Included:
 
-Task	                 Status
-Create PDI	         Completed
-Create Update Set	 Completed
-Design Tables	         Completed
-Create Business Rule	 Completed
-Test Functionality	 Completed
-
-Tools Used:
-	
-	1. ServiceNow PDI (Zurich)
-
-	2. Classic UI
-
-	3. App Engine Studio
-
+Diagram	                Status
+System Architecture	Done
+ER Diagram	        Done
+Use Case Diagram	Done
+DFD	                Done
+Workflow Diagram	Done
