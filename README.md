@@ -1,10 +1,27 @@
-Phase-3 – Project Design
+Phase-4 – Requirement Analysis 
 
-Diagrams Included:
+Functional Requirements:
 
-Diagram	                Status
-System Architecture	Done
-ER Diagram	        Done
-Use Case Diagram	Done
-DFD	                Done
-Workflow Diagram	Done
+	1. Add daily expenses
+
+	2. Store member-wise totals
+
+	3. Auto calculate total
+
+	4. Display reports
+
+Non-Functional Requirements:
+
+	1. Fast update
+
+	2. Easy to use
+
+	3. Accurate calculation
+
+Software Used:
+
+	1. ServiceNow PDI
+
+	2. Browser (Chrome)
+
+	3. GitHub
