@@ -1,21 +1,19 @@
-Phase-1 – Ideation 
+Phase-2 – Project Planning 
 
-Project Title: Family Expense Tracker using ServiceNow
+Project Tasks:
 
-Objective:
+Task	                 Status
+Create PDI	         Completed
+Create Update Set	 Completed
+Design Tables	         Completed
+Create Business Rule	 Completed
+Test Functionality	 Completed
 
-	To track daily family expenses and calculate total spending automatically using ServiceNow.
+Tools Used:
+	
+	1. ServiceNow PDI (Zurich)
 
-Problem Statement:
+	2. Classic UI
 
-	Families face difficulty tracking daily expenses manually. This project automates expense tracking and total calculation.
+	3. App Engine Studio
 
-Solution Idea:
-
-	1. Create two tables in ServiceNow:
-
-		1. Family Expenses (total per member)
-
-		2. Daily Expenses (day-wise entries)
-
-	2. Auto calculation updates total automatically.
